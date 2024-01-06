@@ -1,4 +1,4 @@
-<h1>vue-pure-admin</h1>
+<h1>vue-pure-admin-test</h1>
 
 ![GitHub license](https://img.shields.io/github/license/pure-admin/vue-pure-admin?style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?color=fa6470&style=flat)
